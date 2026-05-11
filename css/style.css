@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #BD1E1E;
+    --primary: #6735fe;
     --secondary: #FFC448;
     --light: #FAFAFB;
     --dark: #12141D;
@@ -77,20 +77,20 @@
 }
 
 .btn-pressre {
-    border: 2px solid #BD1E1E;
+    border: 2px solid #6735fe;
     border-radius: 8px;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
-    background-color: #BD1E1E;
+    background-color: #6735fe;
     color: #fff;
 }
 
 .btn-pressre:hover {
-    border: 2px solid #BD1E1E;
+    border: 2px solid #6735fe;
     border-radius: 8px;
-    background-color: #BD1E1E;
+    background-color: #6735fe;
     color: #fff;
     opacity: 0.6;
 }
